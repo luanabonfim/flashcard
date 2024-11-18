@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
+    'Pergunta',
     'O que é, o que é? Feito para anadar e não anda.',
     'rua'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Pergunta',
+    'O que é, o que é? Da muitas voltas e não sai do lugar.',
+    'O relógio'
 )
 
 criaCartao(
