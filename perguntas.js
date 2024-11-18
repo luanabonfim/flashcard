@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'De onde é a invenção do chuveiro elétrico?',
-    'Brasil'
+    'O que é, o que é? Feito para anadar e não anda.',
+    'rua'
 )
 
 criaCartao(
