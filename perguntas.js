@@ -11,21 +11,21 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Pergunta',
+    'O que é, o que é? Tem no meio do coração. ',
+    'A letra A'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Pergunta',
+    'O que é, o que é? Quanto mais rugas tem mais novo é.',
+    'O pneu'
 )
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Pergunta',
+    'O que é? o que é? Tem no meio do ovo',
+    'A letra O'
 )
 
 
