@@ -30,7 +30,7 @@ criaCartao(
 
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Pergunta',
+    'O que é, o que é? O tomate foi fazer no banco.',
+    'Tirar extrato.'
 )
